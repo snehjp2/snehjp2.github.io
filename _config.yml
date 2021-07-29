@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Sneh Pandya"
-  avatar           : "/images/bio.JPG"
+  avatar           : "/Users/SnehPandya/Dropbox/snehjp2.github.io/images/bio.JPG"
   bio              : "Physics PhD Candidate @ Northeastern"
   location         : "Chicago -> Boston"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "hhttps://scholar.google.com/citations?hl=en&authuser=1&user=YQS7ka8AAAAJ"
+  # googlescholar    : "hhttps://scholar.google.com/citations?hl=en&authuser=1&user=YQS7ka8AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
