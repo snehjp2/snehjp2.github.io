@@ -4,13 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## First Author
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+"AGNet: Weighing Black Holes with Machine Learning"
+**Sneh Pandya**, Joshua Yao-Yu Lin, Devanshi Pratap, Xin Liu, Matias Carrasco-Kind (NeurIPS ML4Physical Sciences 2020, [arxiv:2011.15095](https://arxiv.org/abs/2011.15095))
