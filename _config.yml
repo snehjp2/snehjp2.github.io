@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sneh Pandya"
-  avatar           : <img src ="/Users/SnehPandya/Dropbox/snehjp2.github.io/images/bio.jpg" />
+  avatar           : <img src ="/Users/SnehPandya/Dropbox/snehjp2.github.io/images/bio.jpg">
   bio              : "Physics PhD Candidate @ Northeastern"
   location         : "Chicago -> Boston"
   employer         :
