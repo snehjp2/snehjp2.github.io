@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+> * "A method is more important than a discovery, since the right method will lead to new and even more important discoveries. - Lev Landau"
+
 Hello! I'm a first year PhD student in physics @ Northeastern University.  I'm generally interested in the intersection of artificial intelligence and physics, specifically applications in astrophysics, high energy physics, and cosmology.  
 
 I'm currently working for Dr. Yonatahn Kahn at UIUC in the high-energy theory group.  My research involves studying deep neural networks through the lens of statistical field theory and verifying analytical results with numerical simulations.
