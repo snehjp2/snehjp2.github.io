@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sneh Pandya"
-  avatar           : "profile2.png"
+  avatar           : "/images/profile2.png"
   bio              : "Physics PhD Candidate @ Northeastern"
   location         : "Chicago | Boston"
   employer         :
