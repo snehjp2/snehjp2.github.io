@@ -66,7 +66,6 @@ $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #a63838;
-$red-color                  : $info-color;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -95,8 +94,8 @@ $xing-color                 : #006567;
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $red-color;
-$masthead-link-color-hover  : mix(#000, $red-color, 25%);
+$masthead-link-color        : $info-color;
+$masthead-link-color-hover  : mix(#000, $info-color, 25%);
 
 
 /*
