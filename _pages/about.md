@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> * "A method is more important than a discovery, since the right method will lead to new and even more important discoveries. - Lev Landau"
+> * "A method is more important than a discovery, since the right method will lead to new and even more important discoveries." - Lev Landau
 
 Hello! I'm a first year PhD student in physics @ Northeastern University.  I'm generally interested in the intersection of artificial intelligence and physics, specifically applications in astrophysics, high energy physics, and cosmology.  
 
