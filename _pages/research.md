@@ -15,4 +15,4 @@ My current research revolves around **AI x Physics**. I've worked on two major p
 
 ## Neural Networks Through the Lens of Statistical Field Theory
 
-- Under the guidance of Dr. Yonatahn Kahn at UIUC in the high-energy theory group, I studied deep neural networks through the lens of statistical field theory and verified analytical results with numerical simulations.
+- Under the guidance of Dr. Yonatahn Kahn at UIUC in the high-energy theory group, I studied deep neural networks through the lens of statistical field theory and verified analytical results with numerical simulations. I worked to understand the effect of the initialization distribution on the distribution of weights of particular neurons in a deep linear network after passing data.
