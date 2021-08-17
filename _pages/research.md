@@ -8,10 +8,11 @@ My current research revolves around **AI x Physics**. I've worked on two major p
 
 ![Example AGN Light Curve](/images/lightcurve.png)
 
-- As an undergraduate at the University of Illinois at Urbana-Champaign (UIUC), my work involved developing machine learning and deep learning algorithms to weigh supermassive black holes employing time series data from the Sloan Digital Sky Survey. I constructed the data analysis pipeline, the MLP used in the deep learning pipeline, and automated several necessary statistics and calculations.
+- As an undergraduate at the University of Illinois at Urbana-Champaign (UIUC), my work involved developing machine learning and deep learning algorithms to weigh supermassive black holes employing time series data from the Sloan Digital Sky Survey.
   - [Some Press](https://www.istem.illinois.edu/news/inclusion.reu.20.html)
   - [Conference Video](https://www.youtube.com/watch?v=C3_EWyOwXG8)
   - [Poster](https://www.youtube.com/watch?v=Xh9oDpNisdE)
+  - [Code](https://github.com/snehjp2/AGNet)
 
 ## Neural Networks Through the Lens of Statistical Field Theory
 
