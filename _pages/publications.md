@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## "AGNet: Weighing Black Holes with Deep Learning"
-**Sneh Pandya**, Joshua Yao-Yu Lin, Devanshi Pratap, Xin Liu, Matias Carrasco-Kind, Volodymyr Kindratenko (*submitted to MNRAS*, [arxiv](https://arxiv.org/abs/2108.07749))
+**Sneh Pandya**, Joshua Yao-Yu Lin, Devanshi Pratap, Xin Liu, Matias Carrasco-Kind, Volodymyr Kindratenko (*submitted to MNRAS*, [arxiv:2108.07749](https://arxiv.org/abs/2108.07749))
 
 ## "AGNet: Weighing Black Holes with Machine Learning"
 **Sneh Pandya**, Joshua Yao-Yu Lin, Devanshi Pratap, Xin Liu, Matias Carrasco-Kind ([NeurIPS Workshop 2020](https://ml4physicalsciences.github.io/2020/), [arxiv:2011.15095](https://arxiv.org/abs/2011.15095))
