@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 title: "Research"
+author_profile: true
 ---
 My current research revolves around **AI x Physics**. I've worked on two major projects:
 
