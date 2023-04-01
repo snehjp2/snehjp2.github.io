@@ -9,7 +9,7 @@ redirect_from:
 ---
 > * "A method is more important than a discovery, since the right method will lead to new and even more important discoveries." - Lev Landau
 
-Hello! I'm a second year PhD student in physics @ [Northeastern University](https://www.northeastern.edu) and the NSF Insititute for Artifiicial Intelligence and Fundamental Interactions ([IAIFI](https://iaifi.org)).  I'm generally interested in the intersection of artificial intelligence and physics.
+Hello! I'm a second year PhD candidate in physics @ [Northeastern University](https://www.northeastern.edu) and the NSF Insititute for Artificial Intelligence and Fundamental Interactions ([IAIFI](https://iaifi.org)).  I'm generally interested in the intersection of artificial intelligence and physics.
 
 My work has been [published](https://snehjp2.github.io/publications/) at [NeurIPS](https://ml4physicalsciences.github.io/2020/). My past [research](https://snehjp2.github.io/research/) focused on effective deep learning algorithms to weigh [supermassive black holes](https://www.youtube.com/watch?v=Xsp3_a-PMTw). I currently work on topology x ML.
 
