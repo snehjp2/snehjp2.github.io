@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
-You can download a PDF copy of my CV [here](/files/cv_4.pdf).
+You can download a PDF copy of my resume [here](/files/resume.pdf).
