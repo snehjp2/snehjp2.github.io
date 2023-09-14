@@ -9,7 +9,7 @@ redirect_from:
 ---
 > * "A method is more important than a discovery, since the right method will lead to new and even more important discoveries." - Lev Landau
 
-Hello! I'm a second year Ph.D. candidate in physics @ [Northeastern University](https://www.northeastern.edu) and the NSF AI Insititute for Artificial Intelligence and Fundamental Interactions ([IAIFI](https://iaifi.org)) advised by Jim Halverson.  I'm a physicist and a cosmologist. I'm generally interested in the intersection of artificial intelligence and physics, particularly applications which utilize geometric deep learning and probabalistic inference.
+Hello! I'm a third year Ph.D. candidate in physics @ [Northeastern University](https://www.northeastern.edu) and the NSF AI Insititute for Artificial Intelligence and Fundamental Interactions ([IAIFI](https://iaifi.org)) advised by Jim Halverson.  I'm a physicist and a cosmologist. I'm generally interested in the intersection of artificial intelligence and physics, particularly applications which utilize geometric deep learning and probabalistic inference.
 
 My work has been [published](https://snehjp2.github.io/publications/) at [NeurIPS](https://ml4physicalsciences.github.io/2020/). My past [research](https://snehjp2.github.io/research/) focused on effective deep learning algorithms to weigh [supermassive black holes](https://www.youtube.com/watch?v=Xsp3_a-PMTw).
 
