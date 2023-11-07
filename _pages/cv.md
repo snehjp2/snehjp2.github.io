@@ -7,4 +7,4 @@ redirect_from:
   - /cv/
 ---
 
-You can download a PDF copy of my resume [here](/files/resume.pdf).
+You can download a PDF copy of my CV [here](/files/cv_4.pdf).
