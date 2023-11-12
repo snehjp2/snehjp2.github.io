@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## E(2) Equivariant Neural Networks for Robust Galaxy Morphology Classification 
+## "E(2) Equivariant Neural Networks for Robust Galaxy Morphology Classification" 
 **Sneh Pandya**, Purvik Patel, Franc O, Jonathan Blazek. (*Machine Learning and the Physical Sciences Workshop at NeurIPS 2023*, [arxiv:2311.01500](https://arxiv.org/abs/2311.01500))
 
 ## "AGNet: Weighing Black Holes with Deep Learning" 
