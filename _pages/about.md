@@ -17,5 +17,6 @@ I earned my BSc in Engineering Physics with minors in Math & Astronomy from the 
 
 In my freetime, I enjoy weightlifting, biking, and adding records to online shopping carts which never get checked out.
 
-![UIUC Covid predictions](/files/university_covid_model.png)
+![UIUC Covid predictions](/files/university_covid_model.png)\
+
 *My alma mater referenced in a xkcd comic*
