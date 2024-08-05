@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## On the Generality and Persistence of Cosmological Stasis
-**Sneh Pandy**, James Halverson. [arXiv:2408.00835](https://arxiv.org/abs/2408.00835)
+**Sneh Pandya**, James Halverson. [arXiv:2408.00835](https://arxiv.org/abs/2408.00835)
 
 ## Learning Galaxy Intrinsic Alignment Correlations
 **Sneh Pandya**, Yuanyuan Yang, Nicholas Van Alfen, Jonathan Blazek, Robin Walters. (*Data-centric Machine Learning Research Workshop at ICLR 2024*), [arXiv:2404.13702](https://arxiv.org/abs/2404.13702)
