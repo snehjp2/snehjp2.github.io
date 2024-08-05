@@ -11,7 +11,7 @@ redirect_from:
 
 Hello! I'm a third year Ph.D. candidate in physics @ [Northeastern University](https://www.northeastern.edu) and the NSF AI Insititute for Artificial Intelligence and Fundamental Interactions ([IAIFI](https://iaifi.org)) advised by [Jim Halverson](http://www.jhhalverson.com) and [Jonathan Blazek](https://cos.northeastern.edu/people/jonathan-blazek/). I'm also a member of the Dark Energy Science Collaboration ([DESC](https://lsstdesc.org)). I'm a physicist and a cosmologist. I'm generally interested in the intersection of artificial intelligence and physics, particularly applications which utilize geometric deep learning and probabalistic inference.
 
-My past research focused on effective deep learning algorithms to weigh [supermassive black holes](https://www.youtube.com/watch?v=Xsp3_a-PMTw). Please see my [papers](https://snehjp2.github.io/papers/) for my most recent work.
+My past research focused on effective deep learning algorithms to weigh [supermassive black holes](https://www.youtube.com/watch?v=Xsp3_a-PMTw). Please see my [papers](https://snehjp2.github.io/publications/) for my most recent work.
 
 I earned my BSc in Engineering Physics with minors in Math & Astronomy from the [University of Illinois at Urbana-Champaign](https://illinois.edu) (UIUC). I was a NSF fellow at the [National Center for Supercomputing Applications](http://www.ncsa.illinois.edu) and [Galaxy and Black Hole Astrophysics Group](https://publish.illinois.edu/liu-group/) working under Dr. Xin Liu.
 
