@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## SIDDA: SInkhorn Dynamic Domain Adaptation for Image Classification with Equivariant Neural Networks
-**Sneh Pandya**, Purvik Patel, Mike Walmsley, Brian Nord, Aleksandra Ciprijanovic. (*Submitted to MLST*, [arxiv: 2501.14048](https://arxiv.org/abs/2501.14048))
+**Sneh Pandya**, Purvik Patel, Mike Walmsley, Brian Nord, Aleksandra Ciprijanovic. (*Submitted to MLST*, [arXiv: 2501.14048](https://arxiv.org/abs/2501.14048))
 ## On the Generality and Persistence of Cosmological Stasis
 **Sneh Pandya**, James Halverson. (*Physical Review D*, [arXiv:2408.00835](https://arxiv.org/abs/2408.00835))
 
