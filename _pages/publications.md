@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+## On Soft Clustering For Correlation Estimators: Model Uncertainty, Differentiability, and Surrogates
+Edward Berman, **Sneh Pandya**, Jacqueline McCleary, et al. (*Submitted to OJA*, [arXiv: 2504.06174](https://arxiv.org/abs/2504.06174))
+
 ## IAEmu: Learning Galaxy Intrinsic Alignment Correlations
 **Sneh Pandya**, Yuanyuan Yang, Nicholas Van Alfen, Jonathan Blazek, Robin Walters. (*Submitted to MNRAS*, [arXiv: 2504.05235](https://arxiv.org/abs/2504.05235))
 
