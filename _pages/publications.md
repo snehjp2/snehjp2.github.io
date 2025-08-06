@@ -5,11 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-## On Soft Clustering For Correlation Estimators: Model Uncertainty, Differentiability, and Surrogates
-Edward Berman, **Sneh Pandya**, Jacqueline McCleary, et al. (*Submitted to OJA*, [arXiv: 2504.06174](https://arxiv.org/abs/2504.06174))
 
 ## IAEmu: Learning Galaxy Intrinsic Alignment Correlations
 **Sneh Pandya**, Yuanyuan Yang, Nicholas Van Alfen, Jonathan Blazek, Robin Walters. (*Submitted to OJA*, [arXiv: 2504.05235](https://arxiv.org/abs/2504.05235))
+
+## On Soft Clustering For Correlation Estimators
+Edward Berman, **Sneh Pandya**, Jacqueline McCleary, et al. (*Open Journal of Astrophysics, 2025*, [arXiv: 2504.06174](https://arxiv.org/abs/2504.06174))
 
 ## SIDDA: SInkhorn Dynamic Domain Adaptation for Image Classification with Equivariant Neural Networks
 **Sneh Pandya**, Purvik Patel, Mike Walmsley, Brian Nord, Aleksandra Ciprijanovic. (*Machine Learning: Science and Technology, 2025*, [arXiv: 2501.14048](https://arxiv.org/abs/2501.14048))
