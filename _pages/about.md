@@ -17,6 +17,8 @@ I earned my BSc in Engineering Physics with minors in Math & Astronomy from the 
 
 In my freetime, I enjoy weightlifting, biking, and adding records to online shopping carts which never get checked out.
 
+**I’m currently on the job market!** I am looking for postdoc, research scientist, or ML researcher roles. Please feel free to email me if you want to chat!
+
 ![UIUC Covid predictions](/files/university_covid_model.png)
 \
 *My alma mater referenced in a xkcd comic*
