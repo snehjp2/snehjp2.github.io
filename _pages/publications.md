@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## IAEmu: Learning Galaxy Intrinsic Alignment Correlations
-**Sneh Pandya**, Yuanyuan Yang, Nicholas Van Alfen, Jonathan Blazek, Robin Walters. (*Submitted to OJA*, [arXiv: 2504.05235](https://arxiv.org/abs/2504.05235))
+**Sneh Pandya**, Yuanyuan Yang, Nicholas Van Alfen, Jonathan Blazek, Robin Walters. (*Open Journal of Astrophysics, 2025*, [arXiv: 2504.05235](https://arxiv.org/abs/2504.05235))
 
 ## On Soft Clustering For Correlation Estimators
 Edward Berman, **Sneh Pandya**, Jacqueline McCleary, et al. (*Open Journal of Astrophysics, 2025*, [arXiv: 2504.06174](https://arxiv.org/abs/2504.06174))
