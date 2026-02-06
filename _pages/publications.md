@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Differentiable Stochastic Halo Occupation Distribution with Galaxy Intrinsic Alignments
+**Sneh Pandya**, Jonathan Blazek. (Under review at Open Journal of Astrophysics, 2026, [arXiv:2602.04977](https://arxiv.org/abs/2602.04977))
 
 ## IAEmu: Learning Galaxy Intrinsic Alignment Correlations
 **Sneh Pandya**, Yuanyuan Yang, Nicholas Van Alfen, Jonathan Blazek, Robin Walters. (*Open Journal of Astrophysics, 2025*, [arXiv: 2504.05235](https://arxiv.org/abs/2504.05235))
